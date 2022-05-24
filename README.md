@@ -2,7 +2,7 @@
 
 2022년 04월 25일에 개설된 한림대학교 학술동아리 C.愛.랑 알고리즘 스터디 그룹입니다.
 - C.愛.랑 회원이 아니지만 저도 하고싶어요! 혹은 저도 잔디를 심고 싶어요 
-- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [구글 폼]((https://docs.google.com/forms/d/e/1FAIpQLSeDnfJmwfvDlwRKHVjXWHYrNKpciEumoe9OPgHyFKO8FotE-A/viewform?usp=sf_link) 작성 후 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
+- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [구글 폼](https://docs.google.com/forms/d/e/1FAIpQLSeDnfJmwfvDlwRKHVjXWHYrNKpciEumoe9OPgHyFKO8FotE-A/viewform?usp=sf_link) 작성 후 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
 
 # Contributors
 <table>
@@ -18,14 +18,14 @@
 
   </tr>
 </table>
-  
-## 알고리즘 유의사항
-- 코드리뷰의 가독성을 위해 코드를 깔끔하게 짜려고 노력합시다!
-  - 내가 짠 코드를 다른 사람이 이해할 수 있게 짜는연습을 해야합니다!
-  - 주석을 달지 않아도 이해할 수 있을 정도의 코드를 짜봅시다.
-    
-## 알고리즘 준비의 중요성
 
+<br>
+  
+## 씨애랑 알고리즘 코드 작성 틀
+- 코드 작성 후 가독성이 좋게 다듬어서 올리기
+- 중요 부분에 주석 달아서 설명 해놓기.
+
+## 알고리즘의 중요성
 >최근에 인공지능, 빅데이터, 사물인터넷 등 많은 하이테크 기술들이 빠른 발전을 하고 있고, 많은 이들이 이러한 기술들을 습득하고자 노력하고 있습니다. 특히 최신 기술에 관심을 가지고 열심히 공부하는 우리 학생들의 모습이 아주 보기 좋습니다. ^^
 >
 >최신 기술에 대한 이와 같은 관심과 함께 이러한 최신 기술들을 가능하게 만들었던 핵심 알고리즘, 자료구조, 그리고 시스템 내부 등에도 우리 학생들이 관심을 가지고 컴퓨터 과학/공학에 튼튼한 기초를 다지는 것이 매우 중요하다고 생각합니다. 
@@ -36,17 +36,16 @@
 
 [1기 이정근](https://github.com/jeonggunlee)
 
-## 가입 문의 
+## 알고리즘 스터디 가입 문의 
 - [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 혹은 [구글 폼](https://docs.google.com/forms/d/e/1FAIpQLSeDnfJmwfvDlwRKHVjXWHYrNKpciEumoe9OPgHyFKO8FotE-A/viewform?usp=sf_link) 작성후 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)작성.
 
 
-## PR(pull request) 규칙
-![image](https://user-images.githubusercontent.com/38518648/165247130-ac6a79e6-bbaf-4578-b6b7-df1355cb1103.png)
+## PR(Pull Request) 규칙
 
-- PR 이름은 알고리즘 문제 제목 or 번호 and 난이도 상세하게 적기.
+- <b> PR 이름은 알고리즘 문제 제목 or 번호 and 난이도 적기. </b>
 - label 에 사용한 언어를 추가!
 
-## 🥇 알고리즘 사이트
+## 🥇 알고리즘 사이트 모음
 ---
 - [codility](https://app.codility.com/)
 - [프로그래머스](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=brand_prgms_pc&gclid=CjwKCAjwgr6TBhAGEiwA3aVuIQXmT8YH8jdl1th-cq3_JZgRecC6XPHmVBsLuXyaue86m3dbPMCs9BoC5HIQAvD_BwE)
@@ -86,10 +85,8 @@ label: 문제푼 곳, 언어, 난이도(옵션)
 Closed된 PR에 들어가서 코드를 보고
 1. 개선점 혹은 자신이 생각하는 코드의 느낀점을 자유롭게 표현한다.
 
-## tip
+## 알고리즘 문제 풀기가 어렵다면?
 
-- 한 문제를 여러가지 방법으로 풀도록 탐구해보기
-- 30분~60분 까지 고민해 본다.
-- 어려우면 솔루션을 찾아본다.
-- 문제 풀이의 흔적을 남기기 위해서 당신의 솔루션을 업로드
-- 가능 하면 매일 매일 풀이하여 일일커밋에 도전해보기!
+- 한 문제 당 최대 60분 까지 고민해 본다.
+- 어려우면 솔루션을 찾아보고 주석으로 달아놓기.
+- 가능하면 매일 매일 풀이하여 일일 커밋에 도전해보기!
