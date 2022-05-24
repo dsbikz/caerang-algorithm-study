@@ -1,10 +1,8 @@
-# 😄caerang_algorithm_study😄
+# 😄Caerang_Algorithm_Study😄
 
 2022년 04월 25일에 개설된 한림대학교 학술동아리 C.愛.랑 알고리즘 스터디 그룹입니다.
 - C.愛.랑 회원이 아니지만 저도 하고싶어요! 혹은 저도 잔디를 심고 싶어요 
-- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
-  - 학번, 이름, 전화번호 정도는 남겨주시면 감사하겠습니다.
-
+- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [구글 폼]((https://docs.google.com/forms/d/e/1FAIpQLSeDnfJmwfvDlwRKHVjXWHYrNKpciEumoe9OPgHyFKO8FotE-A/viewform?usp=sf_link) 작성 후 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
 
 # Contributors
 <table>
@@ -39,7 +37,7 @@
 [1기 이정근](https://github.com/jeonggunlee)
 
 ## 가입 문의 
-- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 하거나 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)에 남겨주세요.
+- [27기 나영훈](https://github.com/younghoonNa) 에게 문의를 혹은 [구글 폼](https://docs.google.com/forms/d/e/1FAIpQLSeDnfJmwfvDlwRKHVjXWHYrNKpciEumoe9OPgHyFKO8FotE-A/viewform?usp=sf_link) 작성후 [Issues](https://github.com/CaerangManagement/caerang-algorithm-study/issues)작성.
 
 
 ## PR(pull request) 규칙
